@@ -23,4 +23,16 @@ CUDA_VISIBLE_DEVICES=0  python main_graph.py --cuda --label_smoothing --noam --e
 
 
 ```
+## Citation
+If you find our work useful, please cite our paper as follows:
+
+```bash
+
+@conference{fu2023core,
+	author = {Fu, Fengyi and Zhang, Lei and Wang, Quan and Mao, Zhendong},
+	booktitle = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing and the 13th International Joint Conference on Natural Language Processing, EMNLP 2023},
+	journal = {arXiv preprint arXiv:2311.15016},
+	title = {E-core: Emotion correlation enhanced empathetic dialogue generation},
+	year = {2023}}
+```
 
