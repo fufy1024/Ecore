@@ -8,3 +8,6 @@ tensorboardX==2.4.1
 tensorflow==2.7.0
 torch==1.10.0
 tqdm==4.62.3
+torch-summary==1.4.5
+torchsummary==1.5.1
+torchvision==0.18.0
